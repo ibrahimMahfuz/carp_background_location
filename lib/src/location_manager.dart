@@ -54,7 +54,7 @@ class LocationManager {
           .where((event) => event != null)
           .map((json) => LocationDto.fromJson(json));
     }
-    return _locationStream!;
+    return _locationStream;
   }
 
   /// Get the current location.

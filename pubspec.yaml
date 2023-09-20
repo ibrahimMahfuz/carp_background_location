@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   background_locator_2:
     git:
-      url: https://github.com/ibrahimMahfuz/background_locator_fixed.git
+      url: https://github.com/segari/background_locator_fixed.git
       ref: 2.0.6-non-null-safe.10
 
 dev_dependencies:
